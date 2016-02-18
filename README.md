@@ -14,3 +14,6 @@ nxand
 </pre>
 
 You can look inside the source to see the names used for all the possible truth tables.
+
+truthtables.notes.py (not entirely actually Python code) contains a lot of cryptic notes I wrote while programming it as well as some alternative definitions for the names of the truth tables.
+
