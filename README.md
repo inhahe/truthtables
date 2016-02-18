@@ -1,4 +1,4 @@
-Input names of three truth tables/operators x, y, z and prints the name of the table/operator which is x y'd with z.
+Input the names of three truth tables/operators X, Y, and Z, and it'll spit out the name of the table/operator which is X Y'd with Z.
 
 Good luck trying to figure out how this works, I don't remember.
 
